@@ -27,6 +27,8 @@ SECRET_KEY = 'django-insecure-^458xcnd@ggv01v=59pyallbxra2fl9nk5^giacn&p^)d@t^km
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+FORCE_SCRIPT_NAME = '/demo'   
+
 
 
 # Application definition
